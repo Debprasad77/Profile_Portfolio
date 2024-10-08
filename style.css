@@ -11,8 +11,8 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(11, 14, 36);
-    /* background-image: url('./assets/back1.jpg'); */
+    /* background-color: rgb(11, 14, 36); */
+    background-image: url('./assets/bg.png');
 }
 
 html {
@@ -190,15 +190,15 @@ section {
     margin: auto 0;
     position: relative;
     overflow: hidden;
+
 }
 
 .profile__section__pic-container img {
     /* width: auto;  */
-    /* height: 400px; */
     height: 300px;
+    /* height: 300px; */
     width: 300px;
     border-radius: 50%;
-    /* object-fit: cover; */
 }
 
 .section__text {
